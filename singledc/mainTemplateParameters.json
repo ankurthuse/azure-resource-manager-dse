@@ -1,6 +1,6 @@
 {
   "nodeCount": {
-    "value": 40
+    "value": 2
   },
   "vmSize": {
     "value": "Standard_D3_v2"

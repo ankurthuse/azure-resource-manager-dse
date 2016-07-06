@@ -15,7 +15,7 @@ echo data_center_name $data_center_name
 echo seed_node_dns_name $seed_node_dns_name
 
 #wget https://github.com/DSPN/install-datastax/archive/1.0.zip
-wget https://github.com/ankurthuse/install-datastax/archive/1.2.zip
+wget https://github.com/ankurthuse/install-datastax/archive/1.2.1.zip
 apt-get -y install unzip
 unzip 1.2.zip
 cd install-datastax-1.2/bin
